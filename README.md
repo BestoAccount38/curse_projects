@@ -7,5 +7,5 @@ y se los agradecería bastante.
 
 :D
 
-PD: Los diferentes proyectos están organizados en diferentes Pulls, así que para ver cada uno basta en dar en la barra que dice
+PD: Los diferentes proyectos están organizados en diferentes Branches, así que para ver cada uno basta en dar en la barra que dice
 "master" y entrar al que te interese (como si fueran carpetas).
